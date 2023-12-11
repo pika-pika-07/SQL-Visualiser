@@ -4,7 +4,7 @@ import Dashboard from "./components/Dashboard";
 
 function App() {
   return (
-    <div className="App">
+    <div className="p4 m-4 flex border border-black ">
       <Dashboard />
     </div>
   );
